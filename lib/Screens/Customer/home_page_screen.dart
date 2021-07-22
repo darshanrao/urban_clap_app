@@ -7,7 +7,7 @@ import 'package:service_app/Screens/Customer/home_page_card.dart';
 import 'package:service_app/Screens/Customer/select_category_bottom_sheet.dart';
 import 'package:service_app/Screens/logo_screen.dart';
 import 'Notification/notification_screen.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/ServiceProviderProfile/service_provider_profile_screen.dart';
+import 'package:service_app/Screens/Customer/ServiceProviderProfile/service_provider_profile_screen.dart';
 import 'package:service_app/constants.dart';
 
 class HomePageScreen extends StatefulWidget {

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:service_app/Screens/Customer/receipt_screen.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/FindJobs/search_jobs_screen.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/MyWallet/my_wallet_screen.dart';
+import 'package:service_app/Screens/Customer/FindJobs/search_jobs_screen.dart';
+import 'package:service_app/Screens/Customer/MyWallet/my_wallet_screen.dart';
 import 'Chat/chat_screen.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/MyBooking/MyBookingScreen.dart';
+import 'package:service_app/Screens/Customer/MyBooking/MyBookingScreen.dart';
 import 'package:service_app/Screens/Customer/home_page_screen.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/Notification/notification_screen.dart';
+import 'package:service_app/Screens/Customer/Notification/notification_screen.dart';
 
 import '../../constants.dart';
 import 'Profile/profile_settings_screen.dart';

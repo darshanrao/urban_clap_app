@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:service_app/Screens/Customer/drawer.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/Profile/change_password_bottom_sheet.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/Profile/personal_info_bottom_sheet.dart';
-import 'file:///D:/CWS/service_app/lib/Screens/Customer/Profile/set_address_bottom_sheet.dart';
+import 'package:service_app/Screens/Customer/Profile/change_password_bottom_sheet.dart';
+import 'package:service_app/Screens/Customer/Profile/personal_info_bottom_sheet.dart';
+import 'package:service_app/Screens/Customer/Profile/set_address_bottom_sheet.dart';
 import 'package:service_app/Widgets/button_tile2.dart';
 import 'package:service_app/constants.dart';
 
